@@ -7,10 +7,6 @@ namespace WebApplication3.DTO
 {
     public class DepartmentDTO
     {
-        public DepartmentDTO()
-        {
-
-        }
         public string DepartmentName { get; set; }
     }
 }

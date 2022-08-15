@@ -18,5 +18,10 @@ namespace WebApplication3.Models
         public string DepartmentName { get; set; }
         public virtual ICollection<Position> Positions { get; set; }
 
+        public void UpdateDepartmentName(string departmentName)
+        {
+            DepartmentName = departmentName;
+        }
+
     }
 }
