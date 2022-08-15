@@ -9,6 +9,10 @@ namespace WebApplication3.Models
 {
     public class PersonDetail
     {
+        public PersonDetail()
+        {
+
+        }
         [Key]
         public int Id { get; set; }
         public string PersonCity { get; set; }

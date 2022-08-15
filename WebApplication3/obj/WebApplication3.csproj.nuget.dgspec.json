@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tulio Campos\\source\\repos\\WebApplication3\\WebApplication3\\WebApplication3.csproj": {}
+    "C:\\Users\\Tulio Campos\\source\\repos\\WebApplication3\\WebApplication3\\WebApplication3\\WebApplication3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tulio Campos\\source\\repos\\WebApplication3\\WebApplication3\\WebApplication3.csproj": {
+    "C:\\Users\\Tulio Campos\\source\\repos\\WebApplication3\\WebApplication3\\WebApplication3\\WebApplication3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tulio Campos\\source\\repos\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
+        "projectUniqueName": "C:\\Users\\Tulio Campos\\source\\repos\\WebApplication3\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
         "projectName": "WebApplication3",
-        "projectPath": "C:\\Users\\Tulio Campos\\source\\repos\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
+        "projectPath": "C:\\Users\\Tulio Campos\\source\\repos\\WebApplication3\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
         "packagesPath": "C:\\Users\\Tulio Campos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tulio Campos\\source\\repos\\WebApplication3\\WebApplication3\\obj\\",
+        "outputPath": "C:\\Users\\Tulio Campos\\source\\repos\\WebApplication3\\WebApplication3\\WebApplication3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -65,6 +65,10 @@
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",
               "version": "[5.0.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
             },
             "System.Diagnostics.Tools": {
               "target": "Package",

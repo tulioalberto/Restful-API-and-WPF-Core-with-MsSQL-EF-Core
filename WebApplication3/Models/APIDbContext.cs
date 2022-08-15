@@ -13,9 +13,11 @@ namespace WebApplication3.Models
         public DbSet<Salary> Salaries { get; set; }
         public DbSet<Department> Departments { get; set; }
         public DbSet<PersonDetail> PersonDetails { get; set; }
+
         public APIDbContext(DbContextOptions<APIDbContext> options) : base (options)
         {
 
         }
+
     }
 }

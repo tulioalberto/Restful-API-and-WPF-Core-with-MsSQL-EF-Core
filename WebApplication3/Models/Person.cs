@@ -9,6 +9,10 @@ namespace WebApplication3.Models
 {
     public class Person
     {
+        public Person()
+        {
+
+        }
         [Key]
         public int Id { get; set; }
         [Required]
